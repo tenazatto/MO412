@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-05-26">
+    <creator>NetworkX 2.5.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="bipartite" type="long" />
+    </attributes>
+    <nodes>
+      <node id="P1" label="P1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P2" label="P2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P3" label="P3">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P4" label="P4">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P5" label="P5">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P6" label="P6">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P7" label="P7">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P8" label="P8">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P9" label="P9">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P10" label="P10">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P11" label="P11">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P12" label="P12">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P13" label="P13">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P14" label="P14">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P15" label="P15">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P16" label="P16">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P17" label="P17">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P18" label="P18">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="P1" target="P8" id="0" weight="1" />
+      <edge source="P1" target="P7" id="1" weight="1" />
+      <edge source="P1" target="P12" id="2" weight="1" />
+      <edge source="P1" target="P14" id="3" weight="1" />
+      <edge source="P1" target="P4" id="4" weight="1" />
+      <edge source="P1" target="P17" id="5" weight="1" />
+      <edge source="P2" target="P8" id="6" weight="2" />
+      <edge source="P2" target="P5" id="7" weight="2" />
+      <edge source="P2" target="P3" id="8" weight="2" />
+      <edge source="P2" target="P12" id="9" weight="1" />
+      <edge source="P2" target="P4" id="10" weight="2" />
+      <edge source="P2" target="P14" id="11" weight="1" />
+      <edge source="P2" target="P15" id="12" weight="2" />
+      <edge source="P2" target="P18" id="13" weight="2" />
+      <edge source="P2" target="P9" id="14" weight="2" />
+      <edge source="P2" target="P10" id="15" weight="1" />
+      <edge source="P2" target="P13" id="16" weight="2" />
+      <edge source="P2" target="P17" id="17" weight="1" />
+      <edge source="P2" target="P16" id="18" weight="2" />
+      <edge source="P3" target="P8" id="19" weight="1" />
+      <edge source="P3" target="P5" id="20" weight="1" />
+      <edge source="P3" target="P12" id="21" weight="1" />
+      <edge source="P3" target="P4" id="22" weight="1" />
+      <edge source="P3" target="P15" id="23" weight="1" />
+      <edge source="P3" target="P18" id="24" weight="2" />
+      <edge source="P3" target="P9" id="25" weight="1" />
+      <edge source="P3" target="P13" id="26" weight="2" />
+      <edge source="P3" target="P16" id="27" weight="2" />
+      <edge source="P4" target="P8" id="28" weight="2" />
+      <edge source="P4" target="P14" id="29" weight="1" />
+      <edge source="P4" target="P15" id="30" weight="2" />
+      <edge source="P4" target="P18" id="31" weight="1" />
+      <edge source="P4" target="P10" id="32" weight="1" />
+      <edge source="P4" target="P13" id="33" weight="2" />
+      <edge source="P4" target="P17" id="34" weight="1" />
+      <edge source="P4" target="P16" id="35" weight="1" />
+      <edge source="P4" target="P5" id="36" weight="2" />
+      <edge source="P4" target="P7" id="37" weight="1" />
+      <edge source="P4" target="P12" id="38" weight="1" />
+      <edge source="P4" target="P9" id="39" weight="2" />
+      <edge source="P5" target="P8" id="40" weight="1" />
+      <edge source="P5" target="P12" id="41" weight="2" />
+      <edge source="P5" target="P11" id="42" weight="1" />
+      <edge source="P5" target="P14" id="43" weight="2" />
+      <edge source="P5" target="P15" id="44" weight="2" />
+      <edge source="P5" target="P18" id="45" weight="1" />
+      <edge source="P5" target="P9" id="46" weight="2" />
+      <edge source="P5" target="P10" id="47" weight="2" />
+      <edge source="P5" target="P13" id="48" weight="3" />
+      <edge source="P5" target="P17" id="49" weight="2" />
+      <edge source="P5" target="P16" id="50" weight="2" />
+      <edge source="P6" target="P7" id="51" weight="1" />
+      <edge source="P6" target="P8" id="52" weight="1" />
+      <edge source="P6" target="P10" id="53" weight="1" />
+      <edge source="P7" target="P8" id="54" weight="2" />
+      <edge source="P7" target="P11" id="55" weight="1" />
+      <edge source="P7" target="P14" id="56" weight="1" />
+      <edge source="P7" target="P15" id="57" weight="1" />
+      <edge source="P7" target="P18" id="58" weight="1" />
+      <edge source="P7" target="P9" id="59" weight="1" />
+      <edge source="P7" target="P10" id="60" weight="1" />
+      <edge source="P8" target="P12" id="61" weight="1" />
+      <edge source="P8" target="P15" id="62" weight="1" />
+      <edge source="P8" target="P18" id="63" weight="1" />
+      <edge source="P8" target="P9" id="64" weight="1" />
+      <edge source="P8" target="P10" id="65" weight="1" />
+      <edge source="P8" target="P13" id="66" weight="1" />
+      <edge source="P8" target="P16" id="67" weight="1" />
+      <edge source="P9" target="P11" id="68" weight="1" />
+      <edge source="P9" target="P14" id="69" weight="2" />
+      <edge source="P9" target="P15" id="70" weight="3" />
+      <edge source="P9" target="P18" id="71" weight="2" />
+      <edge source="P9" target="P10" id="72" weight="1" />
+      <edge source="P9" target="P13" id="73" weight="2" />
+      <edge source="P9" target="P17" id="74" weight="1" />
+      <edge source="P9" target="P16" id="75" weight="1" />
+      <edge source="P9" target="P12" id="76" weight="1" />
+      <edge source="P10" target="P12" id="77" weight="1" />
+      <edge source="P10" target="P11" id="78" weight="1" />
+      <edge source="P10" target="P14" id="79" weight="2" />
+      <edge source="P10" target="P15" id="80" weight="1" />
+      <edge source="P10" target="P13" id="81" weight="2" />
+      <edge source="P10" target="P17" id="82" weight="1" />
+      <edge source="P10" target="P16" id="83" weight="1" />
+      <edge source="P11" target="P12" id="84" weight="1" />
+      <edge source="P11" target="P14" id="85" weight="2" />
+      <edge source="P11" target="P15" id="86" weight="1" />
+      <edge source="P11" target="P18" id="87" weight="1" />
+      <edge source="P11" target="P13" id="88" weight="1" />
+      <edge source="P11" target="P16" id="89" weight="1" />
+      <edge source="P12" target="P14" id="90" weight="2" />
+      <edge source="P12" target="P15" id="91" weight="1" />
+      <edge source="P12" target="P18" id="92" weight="1" />
+      <edge source="P12" target="P13" id="93" weight="2" />
+      <edge source="P12" target="P17" id="94" weight="1" />
+      <edge source="P12" target="P16" id="95" weight="2" />
+      <edge source="P13" target="P14" id="96" weight="2" />
+      <edge source="P13" target="P15" id="97" weight="2" />
+      <edge source="P13" target="P18" id="98" weight="1" />
+      <edge source="P13" target="P17" id="99" weight="1" />
+      <edge source="P13" target="P16" id="100" weight="2" />
+      <edge source="P14" target="P16" id="101" weight="1" />
+      <edge source="P14" target="P15" id="102" weight="2" />
+      <edge source="P14" target="P18" id="103" weight="1" />
+      <edge source="P14" target="P17" id="104" weight="2" />
+      <edge source="P15" target="P18" id="105" weight="2" />
+      <edge source="P15" target="P17" id="106" weight="1" />
+      <edge source="P15" target="P16" id="107" weight="1" />
+      <edge source="P16" target="P18" id="108" weight="2" />
+    </edges>
+  </graph>
+</gexf>

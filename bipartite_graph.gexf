@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-05-26">
+    <creator>NetworkX 2.5.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="bipartite" type="long" />
+    </attributes>
+    <nodes>
+      <node id="H1" label="H1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="H2" label="H2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="H3" label="H3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="H4" label="H4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="H5" label="H5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="H6" label="H6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="H7" label="H7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="H8" label="H8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="H9" label="H9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="H10" label="H10">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="H11" label="H11">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="H12" label="H12">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="P1" label="P1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P2" label="P2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P3" label="P3">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P4" label="P4">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P5" label="P5">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P6" label="P6">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P7" label="P7">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P8" label="P8">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P9" label="P9">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P10" label="P10">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P11" label="P11">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P12" label="P12">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P13" label="P13">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P14" label="P14">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P15" label="P15">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P16" label="P16">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P17" label="P17">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P18" label="P18">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="H1" target="P2" id="0" />
+      <edge source="H1" target="P3" id="1" />
+      <edge source="H1" target="P16" id="2" />
+      <edge source="H1" target="P18" id="3" />
+      <edge source="H2" target="P1" id="4" />
+      <edge source="H2" target="P4" id="5" />
+      <edge source="H2" target="P7" id="6" />
+      <edge source="H2" target="P8" id="7" />
+      <edge source="H3" target="P3" id="8" />
+      <edge source="H3" target="P13" id="9" />
+      <edge source="H4" target="P5" id="10" />
+      <edge source="H4" target="P17" id="11" />
+      <edge source="H5" target="P7" id="12" />
+      <edge source="H5" target="P9" id="13" />
+      <edge source="H5" target="P11" id="14" />
+      <edge source="H5" target="P14" id="15" />
+      <edge source="H5" target="P15" id="16" />
+      <edge source="H5" target="P18" id="17" />
+      <edge source="H6" target="P1" id="18" />
+      <edge source="H6" target="P12" id="19" />
+      <edge source="H6" target="P14" id="20" />
+      <edge source="H6" target="P17" id="21" />
+      <edge source="H7" target="P2" id="22" />
+      <edge source="H7" target="P3" id="23" />
+      <edge source="H7" target="P4" id="24" />
+      <edge source="H7" target="P5" id="25" />
+      <edge source="H7" target="P8" id="26" />
+      <edge source="H7" target="P9" id="27" />
+      <edge source="H7" target="P12" id="28" />
+      <edge source="H7" target="P13" id="29" />
+      <edge source="H7" target="P15" id="30" />
+      <edge source="H7" target="P16" id="31" />
+      <edge source="H7" target="P18" id="32" />
+      <edge source="H8" target="P2" id="33" />
+      <edge source="H8" target="P4" id="34" />
+      <edge source="H8" target="P5" id="35" />
+      <edge source="H8" target="P9" id="36" />
+      <edge source="H8" target="P10" id="37" />
+      <edge source="H8" target="P13" id="38" />
+      <edge source="H8" target="P14" id="39" />
+      <edge source="H8" target="P15" id="40" />
+      <edge source="H8" target="P17" id="41" />
+      <edge source="H9" target="P8" id="42" />
+      <edge source="H10" target="P6" id="43" />
+      <edge source="H10" target="P7" id="44" />
+      <edge source="H10" target="P8" id="45" />
+      <edge source="H10" target="P10" id="46" />
+      <edge source="H11" target="P2" id="47" />
+      <edge source="H11" target="P8" id="48" />
+      <edge source="H12" target="P5" id="49" />
+      <edge source="H12" target="P10" id="50" />
+      <edge source="H12" target="P11" id="51" />
+      <edge source="H12" target="P12" id="52" />
+      <edge source="H12" target="P13" id="53" />
+      <edge source="H12" target="P14" id="54" />
+      <edge source="H12" target="P16" id="55" />
+    </edges>
+  </graph>
+</gexf>
